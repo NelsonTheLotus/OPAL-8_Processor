@@ -10,8 +10,8 @@ displaying 15 different colors at 60Hz in a 150x200 resolution.
 
 ## Schematic
 >Schematics are included in the circuit folder. The **Computer_Diagram.circ** file is a logic circuit,
- while the **TI74CDO01CMOS.circ** is designed with the texas instrument 74 series CMOS logic gate 
- series in mind. 
+ while the **TI74CDO01CMOS.circ** is designed with the texas instrument 74 series CMOS logic gates 
+ in mind. 
 
 ## Assembler
 >The assembler for this architecture is included in the Assembler folder,
